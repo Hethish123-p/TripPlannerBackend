@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "7Do2B9xoA9jS/Z0VIKlT29qxogC91RTUZeOHnR3FyzY=",
+  "Source": "TripPlannerBackend",
+  "BasePath": "_content/TripPlannerBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
